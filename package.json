@@ -30,6 +30,7 @@
     "less-plugin-clean-css": "^1.5.1"
   },
   "dependencies": {
-    "bootstrap": "github:twbs/bootstrap"
+    "bootstrap": "github:twbs/bootstrap",
+    "font-awesome": "^4.7.0"
   }
 }

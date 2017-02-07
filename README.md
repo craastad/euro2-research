@@ -8,12 +8,12 @@ First prototype can be found at: https://github.com/cryptofiat
 
 Install NodeJs + NPM: https://docs.npmjs.com/getting-started/installing-node
 
-Install dependencies (bootstrap) by running: `npm install`
+Install dependencies by running: `npm install`
 
 Run build and automatically update changes by running: `gulp`
 
 Open the site locally in a browser from: `dist/index.html`
 
-Deploy By Running: `gulp deploy`
+Deploy to git pagaes by running: `gulp deploy`
 
 Open the deployment: https://craastad.github.io/euro2-research/
